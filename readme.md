@@ -1,3 +1,1 @@
-appvar language :
-char language number
-char 
+Contient les sources (à compiler avec gcc) des fichiers créant les fichiers de language pour StellarisTI83
